@@ -3,5 +3,10 @@ Hello All.
 This is New Repo.
 
 This is Dev
+<<<<<<< HEAD
 Update 1.2 
 Changes made to update dev branch
+=======
+
+Master Change on Server .... to refresh
+>>>>>>> f9834f96c548c447ba6e86b8e2306d83f1a4dba4
